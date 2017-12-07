@@ -1,0 +1,3 @@
+﻿  DLLinjectorFirst.cpp
+e:\visualstudio\dllinjectorfirst\dllinjectorfirst\dllinjectorfirst.cpp(51): warning C4101: 'hLib': unreferenced local variable
+  DLLinjectorFirst.vcxproj -> E:\VisualStudio\DLLinjectorFirst\Debug\DLLinjectorFirst.exe
