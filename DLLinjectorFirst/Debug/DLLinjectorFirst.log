@@ -1,4 +1,4 @@
 ﻿  DLLinjectorFirst.cpp
 e:\visualstudio\dllinjectorfirst\dllinjectorfirst\dllinjectorfirst.cpp(17): warning C4101: 'pidSearch': unreferenced local variable
-e:\visualstudio\dllinjectorfirst\dllinjectorfirst\dllinjectorfirst.cpp(62): warning C4101: 'hLib': unreferenced local variable
+e:\visualstudio\dllinjectorfirst\dllinjectorfirst\dllinjectorfirst.cpp(61): warning C4101: 'hLib': unreferenced local variable
   DLLinjectorFirst.vcxproj -> E:\VisualStudio\DLLinjectorFirst\Debug\DLLinjectorFirst.exe
